@@ -1,0 +1,24 @@
+{
+  "name": "ytmp3-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsicroxe/ytmp3-converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsicroxe/ytmp3-converter/issues"
+  },
+  "homepage": "https://github.com/tsicroxe/ytmp3-converter#readme",
+  "devDependencies": {
+    "electron": "^12.0.1"
+  }
+}
