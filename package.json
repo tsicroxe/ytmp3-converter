@@ -20,5 +20,9 @@
   "homepage": "https://github.com/tsicroxe/ytmp3-converter#readme",
   "devDependencies": {
     "electron": "^12.0.1"
+  },
+  "dependencies": {
+    "ffmpeg": "0.0.4",
+    "ytdl-core": "^4.5.0"
   }
 }
